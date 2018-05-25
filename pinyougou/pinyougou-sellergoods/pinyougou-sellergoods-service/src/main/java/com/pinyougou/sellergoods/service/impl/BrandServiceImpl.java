@@ -15,6 +15,7 @@ public class BrandServiceImpl implements BrandService {
 
     @Override
     public List<TbBrand> queryAll() {
+        //rtrtrtrtr
         return brandMapper.queryAll();
     }
 }
