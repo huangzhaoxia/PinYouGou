@@ -21,5 +21,13 @@
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-solr</artifactId>
         </dependency>
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+        </dependency>
     </dependencies>
 </project>
